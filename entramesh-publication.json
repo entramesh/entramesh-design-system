@@ -1,0 +1,10 @@
+{
+  "sourceRepository": "entramesh/entramesh",
+  "sourceRevision": "1dd9718068d7d6d1a712c0c98df883898a5f4cc1",
+  "workflowRun": "34319672576",
+  "evidenceKind": "ci-build",
+  "catalogueStatus": "initial-scope-reference",
+  "storyCount": 23,
+  "indexSha256": "ae130e82f4375f3f04476dd9a3d54de326b0005ed6ee91d3869dccb5a2e6d7a2",
+  "scopeSha256": "ce813d9acc70dac86385ace41e586c4ed0473d77d9e0920d372d125cef17d5e8"
+}
