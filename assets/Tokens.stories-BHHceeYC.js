@@ -1,0 +1,5 @@
+import{j as e}from"./iframe-D8_f4cOD.js";import"./preload-helper-PPVm8Dsz.js";function t(){return e.jsxs("div",{className:"em-demo",children:[e.jsx("h1",{children:"Semantic foundations"}),e.jsx("p",{children:"Shared light and dark surfaces. Dense controls use 32 px; standard controls use 40 px."}),e.jsx("div",{className:"em-swatches",children:["canvas","surface","subtle","accent","positive","warning","danger"].map(r=>e.jsxs("div",{className:"em-swatch",children:[e.jsx("div",{style:{background:`var(--em-${r})`}}),e.jsxs("code",{children:["--em-",r]})]},r))})]})}const o={title:"DLS/03 Tokens/Semantic palette",component:t,tags:["canonical","tokens"]},s={},a={globals:{theme:"dark"}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:"{}",...s.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
+  globals: {
+    theme: "dark"
+  }
+}`,...a.parameters?.docs?.source}}};const d=["Light","Dark"];export{a as Dark,s as Light,d as __namedExportsOrder,o as default};
